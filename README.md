@@ -1,5 +1,5 @@
 # snntorch-implement4spike-deeplab
- snn implementation for the paper [Beyond Classification: Directly Training Spiking Neural Networks for Semantic Segmentation](https://doi.org/10.1088/2634-4386/ac9b86).
+ this repository is a snntorch implementation for the paper [Beyond Classification: Directly Training Spiking Neural Networks for Semantic Segmentation](https://doi.org/10.1088/2634-4386/ac9b86).
 # dataset
  dataset.py is a dataset class for pascal voc 2012 segmentation.
  
